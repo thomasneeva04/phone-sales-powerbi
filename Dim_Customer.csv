@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Customer_Segment,City_ID,City,State,Region
+CU0001,Customer 001,Regular,C002,Mumbai,Maharashtra,West
+CU0002,Customer 002,New,C012,Kochi,Kerala,South
+CU0003,Customer 003,Regular,C002,Mumbai,Maharashtra,West
+CU0004,Customer 004,New,C011,Indore,Madhya Pradesh,Central
+CU0005,Customer 005,Premium,C012,Kochi,Kerala,South
+CU0006,Customer 006,Regular,C012,Kochi,Kerala,South
+CU0007,Customer 007,Regular,C013,Chandigarh,Chandigarh,North
+CU0008,Customer 008,New,C007,Pune,Maharashtra,West
+CU0009,Customer 009,Premium,C012,Kochi,Kerala,South
+CU0010,Customer 010,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0011,Customer 011,Regular,C007,Pune,Maharashtra,West
+CU0012,Customer 012,Regular,C004,Chennai,Tamil Nadu,South
+CU0013,Customer 013,Premium,C013,Chandigarh,Chandigarh,North
+CU0014,Customer 014,Premium,C013,Chandigarh,Chandigarh,North
+CU0015,Customer 015,New,C011,Indore,Madhya Pradesh,Central
+CU0016,Customer 016,New,C006,Kolkata,West Bengal,East
+CU0017,Customer 017,Regular,C011,Indore,Madhya Pradesh,Central
+CU0018,Customer 018,Regular,C012,Kochi,Kerala,South
+CU0019,Customer 019,Regular,C008,Ahmedabad,Gujarat,West
+CU0020,Customer 020,Premium,C001,Delhi,Delhi,North
+CU0021,Customer 021,New,C014,Surat,Gujarat,West
+CU0022,Customer 022,Regular,C012,Kochi,Kerala,South
+CU0023,Customer 023,Regular,C014,Surat,Gujarat,West
+CU0024,Customer 024,Regular,C006,Kolkata,West Bengal,East
+CU0025,Customer 025,Regular,C007,Pune,Maharashtra,West
+CU0026,Customer 026,Regular,C002,Mumbai,Maharashtra,West
+CU0027,Customer 027,Regular,C009,Jaipur,Rajasthan,North
+CU0028,Customer 028,Premium,C011,Indore,Madhya Pradesh,Central
+CU0029,Customer 029,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0030,Customer 030,Premium,C011,Indore,Madhya Pradesh,Central
+CU0031,Customer 031,Regular,C007,Pune,Maharashtra,West
+CU0032,Customer 032,Regular,C013,Chandigarh,Chandigarh,North
+CU0033,Customer 033,Regular,C004,Chennai,Tamil Nadu,South
+CU0034,Customer 034,Regular,C011,Indore,Madhya Pradesh,Central
+CU0035,Customer 035,Premium,C013,Chandigarh,Chandigarh,North
+CU0036,Customer 036,Premium,C001,Delhi,Delhi,North
+CU0037,Customer 037,Premium,C008,Ahmedabad,Gujarat,West
+CU0038,Customer 038,Regular,C011,Indore,Madhya Pradesh,Central
+CU0039,Customer 039,Regular,C008,Ahmedabad,Gujarat,West
+CU0040,Customer 040,Regular,C009,Jaipur,Rajasthan,North
+CU0041,Customer 041,Regular,C007,Pune,Maharashtra,West
+CU0042,Customer 042,Regular,C011,Indore,Madhya Pradesh,Central
+CU0043,Customer 043,Premium,C002,Mumbai,Maharashtra,West
+CU0044,Customer 044,Regular,C012,Kochi,Kerala,South
+CU0045,Customer 045,Regular,C002,Mumbai,Maharashtra,West
+CU0046,Customer 046,Regular,C009,Jaipur,Rajasthan,North
+CU0047,Customer 047,Regular,C006,Kolkata,West Bengal,East
+CU0048,Customer 048,Regular,C007,Pune,Maharashtra,West
+CU0049,Customer 049,Regular,C015,Nagpur,Maharashtra,Central
+CU0050,Customer 050,Regular,C013,Chandigarh,Chandigarh,North
+CU0051,Customer 051,Regular,C013,Chandigarh,Chandigarh,North
+CU0052,Customer 052,Premium,C005,Hyderabad,Telangana,South
+CU0053,Customer 053,Premium,C002,Mumbai,Maharashtra,West
+CU0054,Customer 054,Premium,C009,Jaipur,Rajasthan,North
+CU0055,Customer 055,Premium,C007,Pune,Maharashtra,West
+CU0056,Customer 056,Regular,C007,Pune,Maharashtra,West
+CU0057,Customer 057,Regular,C006,Kolkata,West Bengal,East
+CU0058,Customer 058,Premium,C001,Delhi,Delhi,North
+CU0059,Customer 059,Regular,C011,Indore,Madhya Pradesh,Central
+CU0060,Customer 060,Regular,C007,Pune,Maharashtra,West
+CU0061,Customer 061,Premium,C015,Nagpur,Maharashtra,Central
+CU0062,Customer 062,Regular,C003,Bengaluru,Karnataka,South
+CU0063,Customer 063,Regular,C003,Bengaluru,Karnataka,South
+CU0064,Customer 064,Premium,C006,Kolkata,West Bengal,East
+CU0065,Customer 065,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0066,Customer 066,Regular,C006,Kolkata,West Bengal,East
+CU0067,Customer 067,New,C006,Kolkata,West Bengal,East
+CU0068,Customer 068,Premium,C015,Nagpur,Maharashtra,Central
+CU0069,Customer 069,New,C007,Pune,Maharashtra,West
+CU0070,Customer 070,Premium,C004,Chennai,Tamil Nadu,South
+CU0071,Customer 071,Regular,C004,Chennai,Tamil Nadu,South
+CU0072,Customer 072,Regular,C011,Indore,Madhya Pradesh,Central
+CU0073,Customer 073,New,C002,Mumbai,Maharashtra,West
+CU0074,Customer 074,Regular,C002,Mumbai,Maharashtra,West
+CU0075,Customer 075,Regular,C011,Indore,Madhya Pradesh,Central
+CU0076,Customer 076,Regular,C004,Chennai,Tamil Nadu,South
+CU0077,Customer 077,New,C009,Jaipur,Rajasthan,North
+CU0078,Customer 078,Premium,C003,Bengaluru,Karnataka,South
+CU0079,Customer 079,Regular,C008,Ahmedabad,Gujarat,West
+CU0080,Customer 080,Premium,C011,Indore,Madhya Pradesh,Central
+CU0081,Customer 081,Premium,C003,Bengaluru,Karnataka,South
+CU0082,Customer 082,Regular,C009,Jaipur,Rajasthan,North
+CU0083,Customer 083,Regular,C012,Kochi,Kerala,South
+CU0084,Customer 084,Regular,C007,Pune,Maharashtra,West
+CU0085,Customer 085,Regular,C003,Bengaluru,Karnataka,South
+CU0086,Customer 086,Regular,C005,Hyderabad,Telangana,South
+CU0087,Customer 087,Regular,C003,Bengaluru,Karnataka,South
+CU0088,Customer 088,New,C009,Jaipur,Rajasthan,North
+CU0089,Customer 089,Regular,C015,Nagpur,Maharashtra,Central
+CU0090,Customer 090,Regular,C009,Jaipur,Rajasthan,North
+CU0091,Customer 091,New,C005,Hyderabad,Telangana,South
+CU0092,Customer 092,Regular,C001,Delhi,Delhi,North
+CU0093,Customer 093,Regular,C008,Ahmedabad,Gujarat,West
+CU0094,Customer 094,Regular,C012,Kochi,Kerala,South
+CU0095,Customer 095,New,C011,Indore,Madhya Pradesh,Central
+CU0096,Customer 096,Regular,C008,Ahmedabad,Gujarat,West
+CU0097,Customer 097,Regular,C009,Jaipur,Rajasthan,North
+CU0098,Customer 098,Regular,C008,Ahmedabad,Gujarat,West
+CU0099,Customer 099,Regular,C009,Jaipur,Rajasthan,North
+CU0100,Customer 100,Regular,C008,Ahmedabad,Gujarat,West
+CU0101,Customer 101,New,C006,Kolkata,West Bengal,East
+CU0102,Customer 102,Regular,C013,Chandigarh,Chandigarh,North
+CU0103,Customer 103,Regular,C005,Hyderabad,Telangana,South
+CU0104,Customer 104,Premium,C009,Jaipur,Rajasthan,North
+CU0105,Customer 105,Premium,C002,Mumbai,Maharashtra,West
+CU0106,Customer 106,Premium,C005,Hyderabad,Telangana,South
+CU0107,Customer 107,Regular,C015,Nagpur,Maharashtra,Central
+CU0108,Customer 108,New,C012,Kochi,Kerala,South
+CU0109,Customer 109,Regular,C015,Nagpur,Maharashtra,Central
+CU0110,Customer 110,Regular,C004,Chennai,Tamil Nadu,South
+CU0111,Customer 111,Premium,C009,Jaipur,Rajasthan,North
+CU0112,Customer 112,Premium,C006,Kolkata,West Bengal,East
+CU0113,Customer 113,New,C015,Nagpur,Maharashtra,Central
+CU0114,Customer 114,Regular,C005,Hyderabad,Telangana,South
+CU0115,Customer 115,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0116,Customer 116,New,C008,Ahmedabad,Gujarat,West
+CU0117,Customer 117,Regular,C003,Bengaluru,Karnataka,South
+CU0118,Customer 118,Regular,C003,Bengaluru,Karnataka,South
+CU0119,Customer 119,New,C015,Nagpur,Maharashtra,Central
+CU0120,Customer 120,Premium,C015,Nagpur,Maharashtra,Central
+CU0121,Customer 121,New,C013,Chandigarh,Chandigarh,North
+CU0122,Customer 122,Regular,C014,Surat,Gujarat,West
+CU0123,Customer 123,Premium,C008,Ahmedabad,Gujarat,West
+CU0124,Customer 124,Premium,C005,Hyderabad,Telangana,South
+CU0125,Customer 125,Regular,C007,Pune,Maharashtra,West
+CU0126,Customer 126,Premium,C006,Kolkata,West Bengal,East
+CU0127,Customer 127,New,C006,Kolkata,West Bengal,East
+CU0128,Customer 128,Regular,C004,Chennai,Tamil Nadu,South
+CU0129,Customer 129,Premium,C001,Delhi,Delhi,North
+CU0130,Customer 130,Regular,C002,Mumbai,Maharashtra,West
+CU0131,Customer 131,Regular,C012,Kochi,Kerala,South
+CU0132,Customer 132,New,C003,Bengaluru,Karnataka,South
+CU0133,Customer 133,Regular,C001,Delhi,Delhi,North
+CU0134,Customer 134,Premium,C003,Bengaluru,Karnataka,South
+CU0135,Customer 135,Regular,C005,Hyderabad,Telangana,South
+CU0136,Customer 136,Regular,C015,Nagpur,Maharashtra,Central
+CU0137,Customer 137,Regular,C015,Nagpur,Maharashtra,Central
+CU0138,Customer 138,Regular,C001,Delhi,Delhi,North
+CU0139,Customer 139,Regular,C001,Delhi,Delhi,North
+CU0140,Customer 140,Regular,C011,Indore,Madhya Pradesh,Central
+CU0141,Customer 141,Regular,C014,Surat,Gujarat,West
+CU0142,Customer 142,Regular,C011,Indore,Madhya Pradesh,Central
+CU0143,Customer 143,Premium,C013,Chandigarh,Chandigarh,North
+CU0144,Customer 144,Premium,C013,Chandigarh,Chandigarh,North
+CU0145,Customer 145,Regular,C013,Chandigarh,Chandigarh,North
+CU0146,Customer 146,New,C002,Mumbai,Maharashtra,West
+CU0147,Customer 147,Regular,C002,Mumbai,Maharashtra,West
+CU0148,Customer 148,Regular,C006,Kolkata,West Bengal,East
+CU0149,Customer 149,New,C008,Ahmedabad,Gujarat,West
+CU0150,Customer 150,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0151,Customer 151,Regular,C015,Nagpur,Maharashtra,Central
+CU0152,Customer 152,Regular,C014,Surat,Gujarat,West
+CU0153,Customer 153,Regular,C003,Bengaluru,Karnataka,South
+CU0154,Customer 154,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0155,Customer 155,New,C012,Kochi,Kerala,South
+CU0156,Customer 156,Regular,C007,Pune,Maharashtra,West
+CU0157,Customer 157,Premium,C003,Bengaluru,Karnataka,South
+CU0158,Customer 158,Regular,C014,Surat,Gujarat,West
+CU0159,Customer 159,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0160,Customer 160,Regular,C012,Kochi,Kerala,South
+CU0161,Customer 161,Premium,C005,Hyderabad,Telangana,South
+CU0162,Customer 162,Regular,C013,Chandigarh,Chandigarh,North
+CU0163,Customer 163,Regular,C006,Kolkata,West Bengal,East
+CU0164,Customer 164,New,C008,Ahmedabad,Gujarat,West
+CU0165,Customer 165,Regular,C012,Kochi,Kerala,South
+CU0166,Customer 166,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0167,Customer 167,Premium,C014,Surat,Gujarat,West
+CU0168,Customer 168,New,C007,Pune,Maharashtra,West
+CU0169,Customer 169,Regular,C005,Hyderabad,Telangana,South
+CU0170,Customer 170,Regular,C007,Pune,Maharashtra,West
+CU0171,Customer 171,Premium,C015,Nagpur,Maharashtra,Central
+CU0172,Customer 172,Regular,C012,Kochi,Kerala,South
+CU0173,Customer 173,Regular,C014,Surat,Gujarat,West
+CU0174,Customer 174,Regular,C001,Delhi,Delhi,North
+CU0175,Customer 175,Regular,C003,Bengaluru,Karnataka,South
+CU0176,Customer 176,Regular,C013,Chandigarh,Chandigarh,North
+CU0177,Customer 177,Regular,C014,Surat,Gujarat,West
+CU0178,Customer 178,Regular,C014,Surat,Gujarat,West
+CU0179,Customer 179,Regular,C009,Jaipur,Rajasthan,North
+CU0180,Customer 180,Regular,C003,Bengaluru,Karnataka,South
+CU0181,Customer 181,Regular,C011,Indore,Madhya Pradesh,Central
+CU0182,Customer 182,Regular,C001,Delhi,Delhi,North
+CU0183,Customer 183,Premium,C007,Pune,Maharashtra,West
+CU0184,Customer 184,Regular,C009,Jaipur,Rajasthan,North
+CU0185,Customer 185,Regular,C013,Chandigarh,Chandigarh,North
+CU0186,Customer 186,New,C005,Hyderabad,Telangana,South
+CU0187,Customer 187,Regular,C012,Kochi,Kerala,South
+CU0188,Customer 188,Regular,C013,Chandigarh,Chandigarh,North
+CU0189,Customer 189,Regular,C014,Surat,Gujarat,West
+CU0190,Customer 190,Regular,C004,Chennai,Tamil Nadu,South
+CU0191,Customer 191,Regular,C015,Nagpur,Maharashtra,Central
+CU0192,Customer 192,Regular,C007,Pune,Maharashtra,West
+CU0193,Customer 193,Regular,C014,Surat,Gujarat,West
+CU0194,Customer 194,Premium,C008,Ahmedabad,Gujarat,West
+CU0195,Customer 195,New,C002,Mumbai,Maharashtra,West
+CU0196,Customer 196,Regular,C001,Delhi,Delhi,North
+CU0197,Customer 197,New,C013,Chandigarh,Chandigarh,North
+CU0198,Customer 198,New,C013,Chandigarh,Chandigarh,North
+CU0199,Customer 199,Premium,C005,Hyderabad,Telangana,South
+CU0200,Customer 200,Premium,C013,Chandigarh,Chandigarh,North
+CU0201,Customer 201,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0202,Customer 202,Regular,C012,Kochi,Kerala,South
+CU0203,Customer 203,New,C005,Hyderabad,Telangana,South
+CU0204,Customer 204,Regular,C008,Ahmedabad,Gujarat,West
+CU0205,Customer 205,Premium,C012,Kochi,Kerala,South
+CU0206,Customer 206,Regular,C006,Kolkata,West Bengal,East
+CU0207,Customer 207,Regular,C001,Delhi,Delhi,North
+CU0208,Customer 208,Regular,C003,Bengaluru,Karnataka,South
+CU0209,Customer 209,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0210,Customer 210,Regular,C004,Chennai,Tamil Nadu,South
+CU0211,Customer 211,Regular,C012,Kochi,Kerala,South
+CU0212,Customer 212,Premium,C005,Hyderabad,Telangana,South
+CU0213,Customer 213,New,C004,Chennai,Tamil Nadu,South
+CU0214,Customer 214,New,C005,Hyderabad,Telangana,South
+CU0215,Customer 215,Regular,C013,Chandigarh,Chandigarh,North
+CU0216,Customer 216,Regular,C008,Ahmedabad,Gujarat,West
+CU0217,Customer 217,Premium,C015,Nagpur,Maharashtra,Central
+CU0218,Customer 218,Premium,C013,Chandigarh,Chandigarh,North
+CU0219,Customer 219,Premium,C009,Jaipur,Rajasthan,North
+CU0220,Customer 220,Regular,C008,Ahmedabad,Gujarat,West
+CU0221,Customer 221,Regular,C003,Bengaluru,Karnataka,South
+CU0222,Customer 222,Premium,C012,Kochi,Kerala,South
+CU0223,Customer 223,Regular,C008,Ahmedabad,Gujarat,West
+CU0224,Customer 224,Regular,C013,Chandigarh,Chandigarh,North
+CU0225,Customer 225,Premium,C010,Lucknow,Uttar Pradesh,North
+CU0226,Customer 226,Regular,C002,Mumbai,Maharashtra,West
+CU0227,Customer 227,Regular,C008,Ahmedabad,Gujarat,West
+CU0228,Customer 228,New,C015,Nagpur,Maharashtra,Central
+CU0229,Customer 229,Regular,C003,Bengaluru,Karnataka,South
+CU0230,Customer 230,Premium,C013,Chandigarh,Chandigarh,North
+CU0231,Customer 231,New,C015,Nagpur,Maharashtra,Central
+CU0232,Customer 232,Regular,C012,Kochi,Kerala,South
+CU0233,Customer 233,Regular,C011,Indore,Madhya Pradesh,Central
+CU0234,Customer 234,Regular,C009,Jaipur,Rajasthan,North
+CU0235,Customer 235,Regular,C003,Bengaluru,Karnataka,South
+CU0236,Customer 236,Regular,C003,Bengaluru,Karnataka,South
+CU0237,Customer 237,Regular,C008,Ahmedabad,Gujarat,West
+CU0238,Customer 238,Premium,C007,Pune,Maharashtra,West
+CU0239,Customer 239,Regular,C014,Surat,Gujarat,West
+CU0240,Customer 240,Regular,C012,Kochi,Kerala,South
+CU0241,Customer 241,Regular,C003,Bengaluru,Karnataka,South
+CU0242,Customer 242,Regular,C014,Surat,Gujarat,West
+CU0243,Customer 243,Premium,C011,Indore,Madhya Pradesh,Central
+CU0244,Customer 244,Regular,C002,Mumbai,Maharashtra,West
+CU0245,Customer 245,Premium,C014,Surat,Gujarat,West
+CU0246,Customer 246,Regular,C012,Kochi,Kerala,South
+CU0247,Customer 247,Premium,C012,Kochi,Kerala,South
+CU0248,Customer 248,Regular,C014,Surat,Gujarat,West
+CU0249,Customer 249,Regular,C012,Kochi,Kerala,South
+CU0250,Customer 250,Regular,C006,Kolkata,West Bengal,East
+CU0251,Customer 251,New,C015,Nagpur,Maharashtra,Central
+CU0252,Customer 252,Regular,C003,Bengaluru,Karnataka,South
+CU0253,Customer 253,Premium,C012,Kochi,Kerala,South
+CU0254,Customer 254,Regular,C006,Kolkata,West Bengal,East
+CU0255,Customer 255,Premium,C015,Nagpur,Maharashtra,Central
+CU0256,Customer 256,Regular,C015,Nagpur,Maharashtra,Central
+CU0257,Customer 257,New,C003,Bengaluru,Karnataka,South
+CU0258,Customer 258,Premium,C006,Kolkata,West Bengal,East
+CU0259,Customer 259,Regular,C013,Chandigarh,Chandigarh,North
+CU0260,Customer 260,New,C015,Nagpur,Maharashtra,Central
+CU0261,Customer 261,Regular,C014,Surat,Gujarat,West
+CU0262,Customer 262,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0263,Customer 263,Regular,C001,Delhi,Delhi,North
+CU0264,Customer 264,Regular,C011,Indore,Madhya Pradesh,Central
+CU0265,Customer 265,Regular,C011,Indore,Madhya Pradesh,Central
+CU0266,Customer 266,Regular,C013,Chandigarh,Chandigarh,North
+CU0267,Customer 267,Regular,C005,Hyderabad,Telangana,South
+CU0268,Customer 268,New,C007,Pune,Maharashtra,West
+CU0269,Customer 269,Regular,C012,Kochi,Kerala,South
+CU0270,Customer 270,New,C012,Kochi,Kerala,South
+CU0271,Customer 271,Regular,C001,Delhi,Delhi,North
+CU0272,Customer 272,Premium,C014,Surat,Gujarat,West
+CU0273,Customer 273,New,C001,Delhi,Delhi,North
+CU0274,Customer 274,Premium,C002,Mumbai,Maharashtra,West
+CU0275,Customer 275,Regular,C003,Bengaluru,Karnataka,South
+CU0276,Customer 276,New,C010,Lucknow,Uttar Pradesh,North
+CU0277,Customer 277,Regular,C013,Chandigarh,Chandigarh,North
+CU0278,Customer 278,Regular,C001,Delhi,Delhi,North
+CU0279,Customer 279,Regular,C013,Chandigarh,Chandigarh,North
+CU0280,Customer 280,New,C012,Kochi,Kerala,South
+CU0281,Customer 281,Regular,C005,Hyderabad,Telangana,South
+CU0282,Customer 282,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0283,Customer 283,Regular,C003,Bengaluru,Karnataka,South
+CU0284,Customer 284,Premium,C001,Delhi,Delhi,North
+CU0285,Customer 285,Premium,C015,Nagpur,Maharashtra,Central
+CU0286,Customer 286,Regular,C004,Chennai,Tamil Nadu,South
+CU0287,Customer 287,New,C011,Indore,Madhya Pradesh,Central
+CU0288,Customer 288,Premium,C013,Chandigarh,Chandigarh,North
+CU0289,Customer 289,Premium,C013,Chandigarh,Chandigarh,North
+CU0290,Customer 290,Regular,C011,Indore,Madhya Pradesh,Central
+CU0291,Customer 291,Regular,C007,Pune,Maharashtra,West
+CU0292,Customer 292,Regular,C004,Chennai,Tamil Nadu,South
+CU0293,Customer 293,Premium,C009,Jaipur,Rajasthan,North
+CU0294,Customer 294,New,C012,Kochi,Kerala,South
+CU0295,Customer 295,Premium,C007,Pune,Maharashtra,West
+CU0296,Customer 296,Regular,C003,Bengaluru,Karnataka,South
+CU0297,Customer 297,Premium,C001,Delhi,Delhi,North
+CU0298,Customer 298,New,C005,Hyderabad,Telangana,South
+CU0299,Customer 299,Regular,C012,Kochi,Kerala,South
+CU0300,Customer 300,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0301,Customer 301,New,C001,Delhi,Delhi,North
+CU0302,Customer 302,Premium,C001,Delhi,Delhi,North
+CU0303,Customer 303,Regular,C007,Pune,Maharashtra,West
+CU0304,Customer 304,Regular,C003,Bengaluru,Karnataka,South
+CU0305,Customer 305,Regular,C006,Kolkata,West Bengal,East
+CU0306,Customer 306,Premium,C015,Nagpur,Maharashtra,Central
+CU0307,Customer 307,Regular,C004,Chennai,Tamil Nadu,South
+CU0308,Customer 308,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0309,Customer 309,Regular,C004,Chennai,Tamil Nadu,South
+CU0310,Customer 310,Regular,C015,Nagpur,Maharashtra,Central
+CU0311,Customer 311,Premium,C009,Jaipur,Rajasthan,North
+CU0312,Customer 312,New,C011,Indore,Madhya Pradesh,Central
+CU0313,Customer 313,Regular,C003,Bengaluru,Karnataka,South
+CU0314,Customer 314,Regular,C003,Bengaluru,Karnataka,South
+CU0315,Customer 315,Regular,C014,Surat,Gujarat,West
+CU0316,Customer 316,Regular,C008,Ahmedabad,Gujarat,West
+CU0317,Customer 317,Regular,C015,Nagpur,Maharashtra,Central
+CU0318,Customer 318,Regular,C005,Hyderabad,Telangana,South
+CU0319,Customer 319,Premium,C012,Kochi,Kerala,South
+CU0320,Customer 320,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0321,Customer 321,Regular,C003,Bengaluru,Karnataka,South
+CU0322,Customer 322,Regular,C007,Pune,Maharashtra,West
+CU0323,Customer 323,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0324,Customer 324,Regular,C005,Hyderabad,Telangana,South
+CU0325,Customer 325,Regular,C008,Ahmedabad,Gujarat,West
+CU0326,Customer 326,Regular,C008,Ahmedabad,Gujarat,West
+CU0327,Customer 327,Premium,C006,Kolkata,West Bengal,East
+CU0328,Customer 328,Premium,C009,Jaipur,Rajasthan,North
+CU0329,Customer 329,Regular,C009,Jaipur,Rajasthan,North
+CU0330,Customer 330,Premium,C010,Lucknow,Uttar Pradesh,North
+CU0331,Customer 331,Regular,C006,Kolkata,West Bengal,East
+CU0332,Customer 332,Premium,C009,Jaipur,Rajasthan,North
+CU0333,Customer 333,Regular,C008,Ahmedabad,Gujarat,West
+CU0334,Customer 334,Premium,C006,Kolkata,West Bengal,East
+CU0335,Customer 335,New,C009,Jaipur,Rajasthan,North
+CU0336,Customer 336,Regular,C014,Surat,Gujarat,West
+CU0337,Customer 337,Premium,C012,Kochi,Kerala,South
+CU0338,Customer 338,Regular,C008,Ahmedabad,Gujarat,West
+CU0339,Customer 339,Regular,C008,Ahmedabad,Gujarat,West
+CU0340,Customer 340,Regular,C013,Chandigarh,Chandigarh,North
+CU0341,Customer 341,Premium,C001,Delhi,Delhi,North
+CU0342,Customer 342,Regular,C002,Mumbai,Maharashtra,West
+CU0343,Customer 343,Regular,C002,Mumbai,Maharashtra,West
+CU0344,Customer 344,Regular,C005,Hyderabad,Telangana,South
+CU0345,Customer 345,Premium,C011,Indore,Madhya Pradesh,Central
+CU0346,Customer 346,Regular,C005,Hyderabad,Telangana,South
+CU0347,Customer 347,New,C007,Pune,Maharashtra,West
+CU0348,Customer 348,Regular,C013,Chandigarh,Chandigarh,North
+CU0349,Customer 349,Regular,C011,Indore,Madhya Pradesh,Central
+CU0350,Customer 350,Regular,C003,Bengaluru,Karnataka,South
+CU0351,Customer 351,New,C008,Ahmedabad,Gujarat,West
+CU0352,Customer 352,New,C006,Kolkata,West Bengal,East
+CU0353,Customer 353,Regular,C007,Pune,Maharashtra,West
+CU0354,Customer 354,Premium,C012,Kochi,Kerala,South
+CU0355,Customer 355,Regular,C003,Bengaluru,Karnataka,South
+CU0356,Customer 356,Premium,C011,Indore,Madhya Pradesh,Central
+CU0357,Customer 357,Regular,C006,Kolkata,West Bengal,East
+CU0358,Customer 358,Regular,C001,Delhi,Delhi,North
+CU0359,Customer 359,Regular,C008,Ahmedabad,Gujarat,West
+CU0360,Customer 360,Premium,C003,Bengaluru,Karnataka,South
+CU0361,Customer 361,Regular,C014,Surat,Gujarat,West
+CU0362,Customer 362,Premium,C015,Nagpur,Maharashtra,Central
+CU0363,Customer 363,Regular,C013,Chandigarh,Chandigarh,North
+CU0364,Customer 364,Regular,C015,Nagpur,Maharashtra,Central
+CU0365,Customer 365,Regular,C013,Chandigarh,Chandigarh,North
+CU0366,Customer 366,Premium,C006,Kolkata,West Bengal,East
+CU0367,Customer 367,Regular,C001,Delhi,Delhi,North
+CU0368,Customer 368,Regular,C007,Pune,Maharashtra,West
+CU0369,Customer 369,New,C005,Hyderabad,Telangana,South
+CU0370,Customer 370,Regular,C003,Bengaluru,Karnataka,South
+CU0371,Customer 371,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0372,Customer 372,Regular,C004,Chennai,Tamil Nadu,South
+CU0373,Customer 373,Regular,C015,Nagpur,Maharashtra,Central
+CU0374,Customer 374,Regular,C009,Jaipur,Rajasthan,North
+CU0375,Customer 375,Premium,C005,Hyderabad,Telangana,South
+CU0376,Customer 376,Premium,C004,Chennai,Tamil Nadu,South
+CU0377,Customer 377,Premium,C009,Jaipur,Rajasthan,North
+CU0378,Customer 378,Premium,C010,Lucknow,Uttar Pradesh,North
+CU0379,Customer 379,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0380,Customer 380,Regular,C001,Delhi,Delhi,North
+CU0381,Customer 381,Premium,C014,Surat,Gujarat,West
+CU0382,Customer 382,Regular,C006,Kolkata,West Bengal,East
+CU0383,Customer 383,New,C008,Ahmedabad,Gujarat,West
+CU0384,Customer 384,Regular,C012,Kochi,Kerala,South
+CU0385,Customer 385,Regular,C007,Pune,Maharashtra,West
+CU0386,Customer 386,New,C014,Surat,Gujarat,West
+CU0387,Customer 387,Regular,C006,Kolkata,West Bengal,East
+CU0388,Customer 388,Regular,C006,Kolkata,West Bengal,East
+CU0389,Customer 389,Regular,C008,Ahmedabad,Gujarat,West
+CU0390,Customer 390,New,C002,Mumbai,Maharashtra,West
+CU0391,Customer 391,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0392,Customer 392,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0393,Customer 393,Regular,C005,Hyderabad,Telangana,South
+CU0394,Customer 394,New,C003,Bengaluru,Karnataka,South
+CU0395,Customer 395,Regular,C011,Indore,Madhya Pradesh,Central
+CU0396,Customer 396,Regular,C007,Pune,Maharashtra,West
+CU0397,Customer 397,Regular,C009,Jaipur,Rajasthan,North
+CU0398,Customer 398,Premium,C001,Delhi,Delhi,North
+CU0399,Customer 399,New,C008,Ahmedabad,Gujarat,West
+CU0400,Customer 400,Premium,C010,Lucknow,Uttar Pradesh,North
+CU0401,Customer 401,Premium,C014,Surat,Gujarat,West
+CU0402,Customer 402,New,C008,Ahmedabad,Gujarat,West
+CU0403,Customer 403,New,C008,Ahmedabad,Gujarat,West
+CU0404,Customer 404,Premium,C011,Indore,Madhya Pradesh,Central
+CU0405,Customer 405,Regular,C007,Pune,Maharashtra,West
+CU0406,Customer 406,Premium,C014,Surat,Gujarat,West
+CU0407,Customer 407,Regular,C013,Chandigarh,Chandigarh,North
+CU0408,Customer 408,Premium,C007,Pune,Maharashtra,West
+CU0409,Customer 409,New,C007,Pune,Maharashtra,West
+CU0410,Customer 410,Regular,C015,Nagpur,Maharashtra,Central
+CU0411,Customer 411,Premium,C013,Chandigarh,Chandigarh,North
+CU0412,Customer 412,Regular,C012,Kochi,Kerala,South
+CU0413,Customer 413,Regular,C001,Delhi,Delhi,North
+CU0414,Customer 414,Premium,C002,Mumbai,Maharashtra,West
+CU0415,Customer 415,New,C015,Nagpur,Maharashtra,Central
+CU0416,Customer 416,Regular,C008,Ahmedabad,Gujarat,West
+CU0417,Customer 417,Regular,C005,Hyderabad,Telangana,South
+CU0418,Customer 418,Premium,C015,Nagpur,Maharashtra,Central
+CU0419,Customer 419,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0420,Customer 420,Premium,C002,Mumbai,Maharashtra,West
+CU0421,Customer 421,Premium,C004,Chennai,Tamil Nadu,South
+CU0422,Customer 422,Regular,C014,Surat,Gujarat,West
+CU0423,Customer 423,Regular,C001,Delhi,Delhi,North
+CU0424,Customer 424,Regular,C006,Kolkata,West Bengal,East
+CU0425,Customer 425,Premium,C014,Surat,Gujarat,West
+CU0426,Customer 426,Premium,C011,Indore,Madhya Pradesh,Central
+CU0427,Customer 427,Premium,C001,Delhi,Delhi,North
+CU0428,Customer 428,Premium,C013,Chandigarh,Chandigarh,North
+CU0429,Customer 429,Regular,C006,Kolkata,West Bengal,East
+CU0430,Customer 430,Premium,C001,Delhi,Delhi,North
+CU0431,Customer 431,Regular,C004,Chennai,Tamil Nadu,South
+CU0432,Customer 432,Regular,C013,Chandigarh,Chandigarh,North
+CU0433,Customer 433,Regular,C004,Chennai,Tamil Nadu,South
+CU0434,Customer 434,Regular,C011,Indore,Madhya Pradesh,Central
+CU0435,Customer 435,Premium,C011,Indore,Madhya Pradesh,Central
+CU0436,Customer 436,Regular,C014,Surat,Gujarat,West
+CU0437,Customer 437,Regular,C007,Pune,Maharashtra,West
+CU0438,Customer 438,New,C013,Chandigarh,Chandigarh,North
+CU0439,Customer 439,Regular,C014,Surat,Gujarat,West
+CU0440,Customer 440,Regular,C005,Hyderabad,Telangana,South
+CU0441,Customer 441,New,C002,Mumbai,Maharashtra,West
+CU0442,Customer 442,Regular,C005,Hyderabad,Telangana,South
+CU0443,Customer 443,Regular,C011,Indore,Madhya Pradesh,Central
+CU0444,Customer 444,Premium,C002,Mumbai,Maharashtra,West
+CU0445,Customer 445,New,C007,Pune,Maharashtra,West
+CU0446,Customer 446,Regular,C013,Chandigarh,Chandigarh,North
+CU0447,Customer 447,Regular,C012,Kochi,Kerala,South
+CU0448,Customer 448,Regular,C007,Pune,Maharashtra,West
+CU0449,Customer 449,Premium,C003,Bengaluru,Karnataka,South
+CU0450,Customer 450,Regular,C015,Nagpur,Maharashtra,Central
+CU0451,Customer 451,New,C001,Delhi,Delhi,North
+CU0452,Customer 452,Regular,C006,Kolkata,West Bengal,East
+CU0453,Customer 453,Regular,C006,Kolkata,West Bengal,East
+CU0454,Customer 454,Regular,C003,Bengaluru,Karnataka,South
+CU0455,Customer 455,Regular,C006,Kolkata,West Bengal,East
+CU0456,Customer 456,Regular,C004,Chennai,Tamil Nadu,South
+CU0457,Customer 457,Regular,C015,Nagpur,Maharashtra,Central
+CU0458,Customer 458,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0459,Customer 459,Premium,C014,Surat,Gujarat,West
+CU0460,Customer 460,Regular,C015,Nagpur,Maharashtra,Central
+CU0461,Customer 461,New,C015,Nagpur,Maharashtra,Central
+CU0462,Customer 462,Regular,C005,Hyderabad,Telangana,South
+CU0463,Customer 463,New,C009,Jaipur,Rajasthan,North
+CU0464,Customer 464,Regular,C005,Hyderabad,Telangana,South
+CU0465,Customer 465,Regular,C015,Nagpur,Maharashtra,Central
+CU0466,Customer 466,Premium,C012,Kochi,Kerala,South
+CU0467,Customer 467,Regular,C001,Delhi,Delhi,North
+CU0468,Customer 468,Regular,C005,Hyderabad,Telangana,South
+CU0469,Customer 469,New,C003,Bengaluru,Karnataka,South
+CU0470,Customer 470,Regular,C003,Bengaluru,Karnataka,South
+CU0471,Customer 471,Premium,C001,Delhi,Delhi,North
+CU0472,Customer 472,Premium,C009,Jaipur,Rajasthan,North
+CU0473,Customer 473,Regular,C010,Lucknow,Uttar Pradesh,North
+CU0474,Customer 474,New,C007,Pune,Maharashtra,West
+CU0475,Customer 475,Premium,C009,Jaipur,Rajasthan,North
+CU0476,Customer 476,New,C011,Indore,Madhya Pradesh,Central
+CU0477,Customer 477,Regular,C005,Hyderabad,Telangana,South
+CU0478,Customer 478,Regular,C012,Kochi,Kerala,South
+CU0479,Customer 479,Premium,C005,Hyderabad,Telangana,South
+CU0480,Customer 480,New,C002,Mumbai,Maharashtra,West
+CU0481,Customer 481,Regular,C012,Kochi,Kerala,South
+CU0482,Customer 482,Regular,C008,Ahmedabad,Gujarat,West
+CU0483,Customer 483,Regular,C015,Nagpur,Maharashtra,Central
+CU0484,Customer 484,Regular,C015,Nagpur,Maharashtra,Central
+CU0485,Customer 485,Regular,C001,Delhi,Delhi,North
+CU0486,Customer 486,Regular,C004,Chennai,Tamil Nadu,South
+CU0487,Customer 487,Regular,C004,Chennai,Tamil Nadu,South
+CU0488,Customer 488,Regular,C008,Ahmedabad,Gujarat,West
+CU0489,Customer 489,Regular,C013,Chandigarh,Chandigarh,North
+CU0490,Customer 490,Regular,C002,Mumbai,Maharashtra,West
+CU0491,Customer 491,Regular,C014,Surat,Gujarat,West
+CU0492,Customer 492,Regular,C011,Indore,Madhya Pradesh,Central
+CU0493,Customer 493,Regular,C008,Ahmedabad,Gujarat,West
+CU0494,Customer 494,Regular,C006,Kolkata,West Bengal,East
+CU0495,Customer 495,New,C005,Hyderabad,Telangana,South
+CU0496,Customer 496,Regular,C002,Mumbai,Maharashtra,West
+CU0497,Customer 497,Regular,C002,Mumbai,Maharashtra,West
+CU0498,Customer 498,Regular,C008,Ahmedabad,Gujarat,West
+CU0499,Customer 499,Premium,C007,Pune,Maharashtra,West
+CU0500,Customer 500,Premium,C007,Pune,Maharashtra,West

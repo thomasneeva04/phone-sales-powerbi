@@ -1,0 +1,18 @@
+Product_ID,Brand,Model,Category
+P001,Apple,iPhone SE,Premium
+P002,Apple,iPhone 11,Premium
+P003,Apple,iPhone 12,Premium
+P004,Apple,iPhone 13,Premium
+P005,Samsung,Galaxy A51,Mid-Range
+P006,Samsung,Galaxy S21,Premium
+P007,Samsung,Galaxy Note 20,Premium
+P008,Samsung,Galaxy S22,Premium
+P009,OnePlus,OnePlus Nord,Mid-Range
+P010,OnePlus,OnePlus 8T,Mid-Range
+P011,OnePlus,OnePlus 9,Premium
+P012,Vivo,Vivo V20,Mid-Range
+P013,Vivo,Vivo Y51,Budget
+P014,Vivo,Vivo V21,Mid-Range
+P015,Xiaomi,Xiaomi Mi 11,Premium
+P016,Xiaomi,Xiaomi Redmi Note 10,Budget
+P017,Xiaomi,Xiaomi Redmi 9,Budget
